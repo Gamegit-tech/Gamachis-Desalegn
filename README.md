@@ -43,11 +43,9 @@ I enjoy building complete digital products — from responsive frontend interfac
 
 ## 📌 Featured Projects
 
-> Update these with your best repositories.
-
-- **Project 1** – Briefly describe what it does, who it helps, and your tech stack.
-- **Project 2** – Highlight a backend/API or database-heavy project.
-- **Project 3** – Show a polished frontend/full-stack app with strong UI/UX.
+- **Project 1** – Expense-Tracker
+- **Project 2** – Weather App
+- **Project 3** – Hospital Management System
 
 ---
 
@@ -60,7 +58,7 @@ I enjoy building complete digital products — from responsive frontend interfac
 
 ## 🎯 2026 Goals
 
-- Build and deploy more production-ready full-stack applications
+- Build and deploy more production-ready full-stack application
 - Contribute to open-source projects
 - Improve system design and software architecture skills
 - Collaborate with developers on impactful projects
@@ -70,8 +68,8 @@ I enjoy building complete digital products — from responsive frontend interfac
 ## 🤝 Connect With Me
 
 - GitHub: [@Gamegit-tech](https://github.com/Gamegit-tech)
-- LinkedIn: **(add your LinkedIn URL)**
-- Portfolio: **(add your portfolio URL)**
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gamachis-desalegn-343278374)
+- Email: gamachisdesalegn3@gmail.com
 
 ---
 
